@@ -16,6 +16,7 @@ Electronics and Telecommunication Engineering graduate with good knowledge of Py
 “Write code that not only works — but speaks clearly.”
 
 🧠 Technical Skills
+
 💻 Programming Languages: Python
 
 🗄️ Databases: MySQL, Oracle SQL

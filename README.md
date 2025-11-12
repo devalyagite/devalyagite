@@ -32,7 +32,6 @@ Electronics and Telecommunication Engineering graduate with good knowledge of Py
 🌟 Passionate about building impactful digital experiences.
 🌱 Currently exploring backend systems and API design.
 💬 Enjoy learning through collaboration and real-world challenges.
-
 🎯 Goal: To become a proficient Full Stack Developer capable of building end-to-end web solutions.
 ⚡ Fun Fact: I believe great UI is not just seen — it’s felt.
 

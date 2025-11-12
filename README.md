@@ -9,8 +9,7 @@
 I’m a Software Engineer with a strong foundation in frontend development and growing expertise in full-stack technologies.
 Recently Graduated from BE-E&TC (CGPA 7.5) from Prof. Ram Meghe Institute of Technology and Research, Badnera
 
-During my internship as a Full Stack Developer Intern at Soulputs Technology Pvt. Ltd., Pune,
-I worked on real-world projects — enhancing UI performance, building reusable components, and collaborating in Agile teams to deliver clean, maintainable code.
+Electronics and Telecommunication Engineering graduate with good knowledge of Python and SQL. Proficient in demonstrating leadership, adaptability, and teamwork through technical events and initiatives. Seeking an entry-level position to apply technical expertise, contribute to impactful projects, and grow within a collaborative, forward-thinking team.
 
 💡 My development philosophy is simple:
 

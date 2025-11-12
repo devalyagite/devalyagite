@@ -1,6 +1,7 @@
 👋 Hey there, I'm Devalya Gite
 
 💻 Software Engineer | Frontend Developer | Database Developer | Backend Developer
+
 🚀 Passionate about crafting elegant, high-performing web experiences with a perfect blend of creativity and logic.
 
 🧠 About Me

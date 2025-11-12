@@ -2,7 +2,6 @@
 
 💻 Software Engineer | Frontend Developer | Database Developer | Backend Developer
 🚀 Passionate about crafting elegant, high-performing web experiences with a perfect blend of creativity and logic.
-I love transforming ideas into reality using Next.js, React, and modern web technologies — while constantly learning to build smarter, scalable, and more user-focused solutions.
 
 🧠 About Me
 
@@ -17,29 +16,15 @@ I worked on real-world projects — enhancing UI performance, building reusable 
 “Write code that not only works — but speaks clearly.”
 
 🧠 Technical Skills
-💻 Programming Languages
+💻 Programming Languages: Python
 
-🐍 Python
+🗄️ Databases: MySQL, Oracle SQL
 
-🗄️ Databases
+🎨 Frontend Technologies: HTML, CSS, JavaScript
 
-🧩 MySQL, Oracle SQL
+🧰 Tools & IDEs: Git, GitHub, VS Code, PyCharm
 
-🎨 Frontend Technologies
-
-⚡ HTML, CSS, JavaScript
-
-🧰 Tools & IDEs
-
-🔧 Git, GitHub, VS Code, PyCharm
-
-⚙️ Core Concepts
-
-🧱 Object-Oriented Programming (OOPs)
-🧩 Problem Solving
-🤝 Team Collaboration
-💼 Work Ethic
-⚡ Quick Learner
+⚙️ Core Concepts: Object-Oriented Programming (OOPs), Problem Solving, Team Collaboration, Work Ethic, Quick Learner
 
 ✨ Quick Summary
 
